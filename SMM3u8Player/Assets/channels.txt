@@ -1,0 +1,10 @@
+hebei http://web-play.pptv.com/web-m3u8-300143.m3u8
+chongqing http://web-play.pptv.com/web-m3u8-300144.m3u8
+dongfang http://web-play.pptv.com/web-m3u8-300145.m3u8
+hubei http://web-play.pptv.com/web-m3u8-300146.m3u8
+hunan http://web-play.pptv.com/web-m3u8-300147.m3u8
+jiangsu http://web-play.pptv.com/web-m3u8-300163.m3u8
+anhui http://web-play.pptv.com/web-m3u8-300162.m3u8
+tianjing http://web-play.pptv.com/web-m3u8-300160.m3u8
+heilongjiang http://web-play.pptv.com/web-m3u8-300432.m3u8
+##zhujiang http://web-play.pptv.com/web-m3u8-300450.m3u8
